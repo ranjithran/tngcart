@@ -1,4 +1,4 @@
-package com.example.tngcart;
+package com.WeRnoobs.tngcart;
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity;
